@@ -18,7 +18,7 @@
 3. 安裝必要套件 <br>
 (env) `pip install -r requirements.txt`
 4. 啟動伺服器, 一定要在虛擬環境執行 <br>
-(env) `run.cm`
+(env) `run.cmd`
 5. 到瀏覽器, 輸入 http://127.0.0.1/api/tasks 或 http:// <<你的IP>> /api/tasks, 顯示如下: <br>
 { <br>
 "data": [ <br>
